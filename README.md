@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Arlindo! <br/><a href="https://linkedin.com/in/arlindo-almada-67986427">Data Professional & Researcher, PhD.</a> </h1>
+<h1>Hi, I'm Arlindo! <br/><a href="https://linkedin.com/in/arlindo-almada-67986427">Data Professional & Researcher. Welcome to my Portofolio!</a> </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -43,16 +43,6 @@
 
 
  
-<h2>📜 Certification:</h2>
-- 
-- 
-- 
--  
--                          
--  
-- 
-
-  
 <h2>📜 Published Papers:</h2>
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Almada, A., Yu, Q., Patel, P. 2019. PS2CLH: A Learning Factor Model for Enhancing Students’ Ability to Control Their Achievement. Tokyo, ACE2019.](https://repository.londonmet.ac.uk/5520/1/53635.pdf)
