@@ -31,8 +31,17 @@
 
 
 <h2>📜 Certification:</h2>
-- Google Advanced Data Analytics Professional Certificate, Continue
-- Data Science and Machine Learning Programme at Massachusetts Institute of Technology (MIT), Continue
+
+- <b>Data Analyst Project</b>
+  - [Google Advanced Data Analytics Professional Certificate, Continue]
+  - [Data Science and Machine Learning Programme at Massachusetts Institute of Technology (MIT), Continue](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Data Analyst Project 3](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+
+
+
+<h2>📜 Certification:</h2>
+- 
+- 
 - Data Science Bootcamp at Imperial College London & Google Advanced Data Analytics Certificate, Continue
 - Specialisation in Natural Language Processing: Attention Models, Sequence Models, Probabilistic Models, Classification and Vector Spaces - Cousera Online Course, 2020 
 - Machine Learning A-Z™: Hands-On Python & R In Data Science - Udacity Online Course, 2018                         
