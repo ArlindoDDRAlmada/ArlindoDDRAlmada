@@ -1,15 +1,33 @@
 
-<h1>Hi, I'm Arlindo! <br/><a href="https://github.com/joshmadakor1">Data Professional & Researcher</a>, <a href="linkedin.com/in/arlindo-almada-67986427">Arlindo Almada, PhD.</a> </h1>
+<h1>Hi, I'm Arlindo! <br/><a href="https://linkedin.com/in/arlindo-almada-67986427">Data Professional & Researcher, PhD.</a> </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Science Project</b>
+- <b>Data Science Projects</b>
+  - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
+  - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
   - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
 
+- <b>SQL's Projects</b>
+  - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
+  - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
+
+- <b>Python's Projects</b>
+  - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
+  - [Data Science Project](https://github.com/ArlindoDDRAlmada/DataScience)
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Analyst Project</b>
+  - [Data Analyst Project](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Data Analyst Project](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Data Analyst Project](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+
+
+- <b>Cloud's Project</b>
+  - [Data Analyst Project](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+
+- <b>Power BI Project</b>
   - [Data Analyst Project](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
 
 
@@ -17,7 +35,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2>📜 Publications:</h2>
+<h2>📜 Published Papers:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
@@ -31,9 +49,9 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: [My Professional Contact](https://linkedin.com/in/arlindo-almada-67986427)
 
-
+<--
 ### Hi there 👋
 
 **ArlindoDDRAlmada/ArlindoDDRAlmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
