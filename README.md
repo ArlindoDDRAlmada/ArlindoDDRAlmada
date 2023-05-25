@@ -5,23 +5,18 @@
 
 - <b>Machine Learning Projects</b>
   - [Data Science Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
-  - [Data Science Project 2](https://github.com/ArlindoDDRAlmada/DataScience)
 
 - <b>SQL's Projects</b>
   - [SQL Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
-  - [SQL Project 2](https://github.com/ArlindoDDRAlmada/DataScience)
 
 - <b>Python's Projects</b>
   - [Python Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
-  - [Python Project 2](https://github.com/ArlindoDDRAlmada/DataScience)
+  
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Analyst Project</b>
   - [Data Analyst Project 1](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
-  - [Data Analyst Project 2](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
-  - [Data Analyst Project 3](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
-
 
 - <b>Cloud's Project</b>
   - [Cloud Project 1](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
@@ -43,7 +38,7 @@
 
 
 
-<h2>📜 Published Papers:</h2>
+<h2>📝 Published Papers:</h2>
 
 - <b>Papers</b>
   - [Almada, A., Yu, Q., Patel, P. 2019. PS2CLH: A Learning Factor Model for Enhancing Students’ Ability to Control Their Achievement. Tokyo, ACE2019.](https://repository.londonmet.ac.uk/5520/1/53635.pdf)
