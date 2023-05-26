@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Arlindo! <br/><a href="https://linkedin.com/in/arlindo-almada-67986427">Data Professional & Researcher. Welcome to my Portofolio!</a> </h1>
+<h1><a href="https://linkedin.com/in/arlindo-almada-67986427">Hi, I'm Arlindo, Data Professional & Researcher.<br/> </a> Welcome to my Portofolio! </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -7,7 +7,7 @@
   - [Data Science Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
 
 - <b>SQL's Projects</b>
-  - [SQL Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
+  - Loading...
 
 - <b>Python's Projects</b>
   - [Python Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
@@ -19,10 +19,10 @@
   - [Data Analyst Project 1](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
 
 - <b>Cloud's Project</b>
-  - [Cloud Project 1](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - Loading...
 
 - <b>Power BI Project</b>
-  - [Power BI Project 1](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - Loading...
 
 
 <h2>📜 Certification:</h2>
