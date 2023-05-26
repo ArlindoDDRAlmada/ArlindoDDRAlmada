@@ -7,16 +7,20 @@
   - [Data Science Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
 
 - <b>SQL's Projects</b>
-  - Loading...
+  - [Capstone Project I: Databases](https://github.com/ArlindoDDRAlmada/SQL_Proj)
 
 - <b>Python's Projects</b>
-  - [Python Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
+  - [Capstone Project III - Lists, Functions, and String Handling](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
+  - [Capstone Project - Object-Oriented Programming](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
   
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Analyst Project</b>
-  - [Data Analyst Project 1](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Movies Capstone Project II](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Exploratory Data Analysis](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
+  - [Loading... Capstone Project II: Data Analysis](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Loading... Capstone Project III: Data Visualization](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
 
 - <b>Cloud's Project</b>
   - Loading...
