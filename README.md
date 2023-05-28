@@ -4,23 +4,30 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Machine Learning Projects</b>
-  - [Data Science Project 1](https://github.com/ArlindoDDRAlmada/DataScience)
+  - [Multiple_Linear_Regression (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
+  - [Random Forest Classifier (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
+  - [ImageRec Random Forest Classifier (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/ImageRec_Random_Forest_Classifier1)
+  - [K means, Categorising countries (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
+  - [Principal Component Analysis (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Principal_Component_Analysis1/tree/main)
+  - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj. & MIT Data Science Program, Proj. & My own Projs.
 
+ 
 - <b>SQL's Projects</b>
-  - [Capstone Project I: Databases](https://github.com/ArlindoDDRAlmada/SQL_Proj)
+  - [Capstone Project I: Databases (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/SQL_Proj)
 
 - <b>Python's Projects</b>
-  - [Capstone Project III - Lists, Functions, and String Handling](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
-  - [Capstone Project - Object-Oriented Programming](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
+  - [Capstone Project III - Lists, Functions, and String Handling (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
+  - [Capstone Project - Object-Oriented Programming (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
   
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Analyst Project</b>
-  - [Movies Capstone Project II](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Movies Capstone Project II (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
   - [Exploratory Data Analysis](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
   - [Loading... Capstone Project II: Data Analysis](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
   - [Loading... Capstone Project III: Data Visualization](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj. & MIT Data Science Program, Proj. & My own Projs.
 
 - <b>Cloud's Project</b>
   - Loading...
