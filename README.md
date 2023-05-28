@@ -5,7 +5,6 @@
 
 - <b>Machine Learning Projects</b>
   - [Multiple_Linear_Regression (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
-  - [Random Forest Classifier (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
   - [ImageRec Random Forest Classifier (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/ImageRec_Random_Forest_Classifier1)
   - [K means, Categorising countries (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
   - [Principal Component Analysis (Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Principal_Component_Analysis1/tree/main)
