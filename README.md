@@ -39,7 +39,7 @@
 <h2>📜 Certification:</h2>
 
 - <b>Certificates</b>
-  - Google Advanced Data Analytics Professional Certificate, Continue
+  - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/TJWTHV3PT9YF)
   - Data Science and Machine Learning Programme at Massachusetts Institute of Technology (MIT), Continue
   - Data Science Bootcamp at Imperial College London & Google Advanced Data Analytics Certificate, Continue
   - Specialisation in Natural Language Processing: Attention Models, Sequence Models, Probabilistic Models, Classification and Vector Spaces - Cousera Online Course, 2020
