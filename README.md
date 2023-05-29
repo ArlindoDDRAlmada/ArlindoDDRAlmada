@@ -7,6 +7,7 @@
   - [Multiple_Linear_Regression (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
   - [ImageRec Random Forest Classifier (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/ImageRec_Random_Forest_Classifier1)
   - [K means, Categorising countries (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
+  - [Supervised learning V: Decision Trees II (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Decision_Trees1/tree/main)
   - [Principal Component Analysis (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Principal_Component_Analysis1/tree/main)
   - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj. & MIT Data Science Program, Proj. & My own Projs.
 
