@@ -9,6 +9,7 @@
   - [K means, Categorising countries (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
   - [Supervised learning V: Decision Trees II (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Decision_Trees1/tree/main)
   - [Principal Component Analysis (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Principal_Component_Analysis1/tree/main)
+  - [Unsupervised learning - PCA and clustering (bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/PCA_and_clustering/tree/main)
   - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj. & MIT Data Science Program, Proj. & My own Projs.
 
  
