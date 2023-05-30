@@ -1,5 +1,5 @@
 
-<h1><a href="https://linkedin.com/in/arlindo-almada-67986427">Hi, I'm Arlindo, Data Professional & Researcher.<br/> </a> Welcome to my Portofolio! </h1>
+<h1><a href="https://linkedin.com/in/arlindo-almada-67986427">Hi, I'm Arlindo, Data Professional & Researcher.<br/> </a> Welcome to my Portfolio! </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
