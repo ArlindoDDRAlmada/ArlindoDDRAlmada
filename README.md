@@ -4,17 +4,17 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Science & Machine Learning Projects</b>
-  - [Multiple_Linear_Regression (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
-  - [ImageRec Random Forest Classifier (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/ImageRec_Random_Forest_Classifier1)
-  - [K means, Categorising countries (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
-  - [Supervised learning V: Decision Trees II (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Decision_Trees1/tree/main)
-  - [Principal Component Analysis (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Principal_Component_Analysis1/tree/main)
-  - [Unsupervised learning - PCA and clustering (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/PCA_and_clustering/tree/main)
+  - [Multiple_Linear_Regression (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
+  - [ImageRec Random Forest Classifier (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/ImageRec_Random_Forest_Classifier1)
+  - [K means, Categorising countries (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
+  - [Supervised learning V: Decision Trees II (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Decision_Trees1/tree/main)
+  - [Principal Component Analysis (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Principal_Component_Analysis1/tree/main)
+  - [Unsupervised learning - PCA and clustering (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/PCA_and_clustering/tree/main)
   - [NN_Practice_Project_SVHN](https://github.com/ArlindoDDRAlmada/NN_Practice_Project_SVHN)
-  - [Case Study - Employee Attrition Prediction (My proj, dev MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Case_Study_Employee_Attrition_Prediction)
+  - [Case Study - Employee Attrition Prediction (My proj, dev. MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Case_Study_Employee_Attrition_Prediction)
   - [My Proj. Project - Classification and Hypothesis Testing: Hotel Booking Cancellation Prediction](https://github.com/ArlindoDDRAlmada/Classification_Hypothesis_Testing/tree/main)
-  - [Regression model: BigMart Sales Prediction (My proj, dev MIT Data Science Program) ](https://github.com/ArlindoDDRAlmada/BigMart_Sales_Prediction/tree/main)
-  - [Networking and Graphical Models: Financial Market Price Estimation with Kalman Filters (My proj, dev MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Financial_Market_Price)
+  - [Regression model: BigMart Sales Prediction (My proj, dev. MIT Data Science Program) ](https://github.com/ArlindoDDRAlmada/BigMart_Sales_Prediction/tree/main)
+  - [Networking and Graphical Models: Financial Market Price Estimation with Kalman Filters (My proj, dev. MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Financial_Market_Price)
   - [My Proj. Project - Recommendation Systems: Movie Recommendation System](https://github.com/ArlindoDDRAlmada/Movie_Recommendation_System)
   - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj.
 
