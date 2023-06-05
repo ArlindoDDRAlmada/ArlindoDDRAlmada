@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Machine Learning Projects</b>
+- <b>Data Science & Machine Learning Projects</b>
   - [Multiple_Linear_Regression (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
   - [ImageRec Random Forest Classifier (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/ImageRec_Random_Forest_Classifier1)
   - [K means, Categorising countries (My proj, devbootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Kmeans1/tree/main)
