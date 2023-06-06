@@ -46,7 +46,7 @@
 
 - <b>Certificates</b>
   - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/TJWTHV3PT9YF)
-  - Data Science and Machine Learning Programme at Massachusetts Institute of Technology (MIT), Continue
+  - [Data Science and Machine Learning Programme at Massachusetts Institute of Technology (MIT), Continue](https://eportfolio.mygreatlearning.com/arlindo-djassi-diogo-reis-de-almada)
   - [Data Science Bootcamp at Imperial College London](https://www.hyperiondev.com/portfolio/156502/)
   - Specialisation in Natural Language Processing: Attention Models, Sequence Models, Probabilistic Models, Classification and Vector Spaces - Cousera Online Course, 2020
   - Machine Learning A-Z™: Hands-On Python & R In Data Science - Udacity Online Course, 2018
