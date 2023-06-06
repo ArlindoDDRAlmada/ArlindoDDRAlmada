@@ -50,8 +50,8 @@
   - [Data Science Bootcamp at Imperial College London, 2023](https://www.hyperiondev.com/portfolio/156502/)
   - [Specialisation in Natural Language Processing: Attention Models, Sequence Models, Probabilistic Models, Classification and Vector Spaces - Cousera Online Course, 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/NKUWAVGSVF5V)
   - Machine Learning A-Z™: Hands-On Python & R In Data Science - Udacity Online Course, 2018
-  - Deep Learning Foundation Nanodegree Programme - Udacity Online Course, 2017
-  - Machine Learning - Stanford University - Cousera Online Course, 2017
+  - [Deep Learning Foundation Nanodegree Programme - Udacity Online Course, 2017](https://confirm.udacity.com/RECHR5T)
+  - [Machine Learning - Stanford University - Cousera Online Course, 2017](https://www.coursera.org/account/accomplishments/certificate/9KRAJKCRN4YY)
 
 
 
