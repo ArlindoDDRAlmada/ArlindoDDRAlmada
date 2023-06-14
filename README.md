@@ -32,9 +32,9 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Analyst Project</b>
-  - [Movies Capstone Project II (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
-  - [Exploratory Data Analysis My proj, dev](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
-  - [Loading... Capstone Project II: Data Analysis My proj, dev ](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Movies Capstone Project II (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
+  - [Exploratory Data Analysis My proj, dev.](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
+  - [Capstone Project II: Data Analysis My proj, dev.](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
   - Loading... 
 
 - <b>Cloud's Project</b>
