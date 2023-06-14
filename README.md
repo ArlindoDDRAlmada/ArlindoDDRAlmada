@@ -16,15 +16,17 @@
   - [Regression model: BigMart Sales Prediction (My proj, dev. MIT Data Science Program) ](https://github.com/ArlindoDDRAlmada/BigMart_Sales_Prediction/tree/main)
   - [Networking and Graphical Models: Financial Market Price Estimation with Kalman Filters (My proj, dev. MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Financial_Market_Price)
   - [My Proj. Project - Recommendation Systems: Movie Recommendation System](https://github.com/ArlindoDDRAlmada/Movie_Recommendation_System)
-  - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj.
+  - Loading... 
 
  
 - <b>SQL's Projects</b>
   - [Capstone Project I: Databases (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/SQL_Proj)
+  - Loading...
 
 - <b>Python's Projects</b>
   - [Capstone Project III - Lists, Functions, and String Handling (My proj, dev Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
   - [Capstone Project - Object-Oriented Programming (My proj, dev Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
+  - Loading...
   
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
@@ -33,7 +35,7 @@
   - [Movies Capstone Project II (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
   - [Exploratory Data Analysis My proj, dev](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
   - [Loading... Capstone Project II: Data Analysis My proj, dev ](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
-  - Loading... Shortly: I will be adding Google Advanced Data Analysis Proj.
+  - Loading... 
 
 - <b>Cloud's Project</b>
   - Loading...
@@ -46,6 +48,7 @@
 
 - <b>Certificates</b>
   - [Google Advanced Data Analytics Professional Certificate, 2023](https://coursera.org/verify/professional-cert/TJWTHV3PT9YF)
+  - [Microsoft Power BI - The Practical Guide Certificate on Udemy [2023 EDITION], 2023](https://www.udemy.com/certificate/UC-bb08a925-5e7d-4369-8595-e58cf39a9917/)
   - [Data Science and Machine Learning Programme at Massachusetts Institute of Technology (MIT), 2023](https://eportfolio.mygreatlearning.com/arlindo-djassi-diogo-reis-de-almada)
   - [Data Science Bootcamp at Imperial College London, 2023](https://www.hyperiondev.com/portfolio/156502/)
   - [Specialisation in Natural Language Processing: Attention Models, Sequence Models, Probabilistic Models, Classification and Vector Spaces - Cousera Online Course, 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/NKUWAVGSVF5V)
