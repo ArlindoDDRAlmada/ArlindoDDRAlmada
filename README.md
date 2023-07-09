@@ -16,6 +16,7 @@
   - [Regression model: BigMart Sales Prediction (My proj, dev. MIT Data Science Program) ](https://github.com/ArlindoDDRAlmada/BigMart_Sales_Prediction/tree/main)
   - [Networking and Graphical Models: Financial Market Price Estimation with Kalman Filters (My proj, dev. MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Financial_Market_Price)
   - [My Proj. Project - Recommendation Systems: Movie Recommendation System](https://github.com/ArlindoDDRAlmada/Movie_Recommendation_System)
+  - [My Proj. Risk models designed to assess the likelihood of a customer defaulting on repayment](https://github.com/ArlindoDDRAlmada/measure__customer_ceasing_repayment/tree/main)
   - Loading... 
 
  
