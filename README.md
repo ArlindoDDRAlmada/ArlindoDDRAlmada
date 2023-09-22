@@ -17,17 +17,17 @@
   - [Networking and Graphical Models: Financial Market Price Estimation with Kalman Filters (My proj, dev. MIT Data Science Program)](https://github.com/ArlindoDDRAlmada/Financial_Market_Price)
   - [My Proj. Project - Recommendation Systems: Movie Recommendation System](https://github.com/ArlindoDDRAlmada/Movie_Recommendation_System)
   - [My Proj. Risk models designed to assess the likelihood of a customer defaulting on repayment](https://github.com/ArlindoDDRAlmada/measure__customer_ceasing_repayment/tree/main)
-  - Loading... 
+
 
  
 - <b>SQL's Projects</b>
   - [Capstone Project I: Databases (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/SQL_Proj)
-  - Loading...
+
 
 - <b>Python's Projects</b>
   - [Capstone Project III - Lists, Functions, and String Handling (My proj, dev Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
   - [Capstone Project - Object-Oriented Programming (My proj, dev Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
-  - Loading...
+  
   
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
@@ -36,13 +36,13 @@
   - [Movies Capstone Project II (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
   - [Exploratory Data Analysis My proj, dev.](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
   - [Capstone Project II: Data Analysis My proj, dev.](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
-  - Loading... 
+ 
 
 - <b>Cloud's Project</b>
-  - Loading...
+ 
 
 - <b>Power BI Project</b>
-  - Loading...
+ 
 
 
 <h2>📜 Certification:</h2>
