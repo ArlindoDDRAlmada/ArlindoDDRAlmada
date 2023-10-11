@@ -1,7 +1,7 @@
 
 <h1><a href="https://linkedin.com/in/arlindo-almada-67986427">Hi, I'm Arlindo, Data Professional & Researcher.<br/> </a> Welcome to my Portfolio! </h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Data Science Projects and Data Analyst Projects:</h2>
 
 - <b>Data Science & Machine Learning Projects</b>
   - [Multiple_Linear_Regression (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Multiple_Linear_Regression1)
@@ -18,30 +18,14 @@
   - [My Proj. Project - Recommendation Systems: Movie Recommendation System](https://github.com/ArlindoDDRAlmada/Movie_Recommendation_System)
   - [My Proj. Risk models designed to assess the likelihood of a customer defaulting on repayment](https://github.com/ArlindoDDRAlmada/measure__customer_ceasing_repayment/tree/main)
 
-
- 
-- <b>SQL's Projects</b>
   - [Capstone Project I: Databases (My proj, dev bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/SQL_Proj)
 
-
-- <b>Python's Projects</b>
   - [Capstone Project III - Lists, Functions, and String Handling (My proj, dev Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
   - [Capstone Project - Object-Oriented Programming (My proj, dev Boot Camp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/Python_Projs/tree/main)
   
-  
-
-<h2>👨‍💻 Data Analyst Projects:</h2>
-
-- <b>Data Analyst Project</b>
   - [Movies Capstone Project II (My proj, dev. bootcamp - Data Science, Imperial College)](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
   - [Exploratory Data Analysis My proj, dev.](https://github.com/ArlindoDDRAlmada/Exploratory_Data_Analysis1)
   - [Capstone Project II: Data Analysis My proj, dev.](https://github.com/ArlindoDDRAlmada/DataAnalysis/tree/main)
- 
-
-- <b>Cloud's Project</b>
- 
-
-- <b>Power BI Project</b>
  
 
 
